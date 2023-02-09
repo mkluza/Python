@@ -1,2 +1,2 @@
 # Python
-Algorytmy i struktury danych w języku Python - UJ
+Projekty w języku Python realizowane w ramach zajęć
